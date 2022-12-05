@@ -1,0 +1,77 @@
+body{padding:0;margin:0;}
+.currency
+{
+        color:white;
+        padding: 250px 0px 250px 0px;        
+        background-color:black;
+}
+
+.Note
+{
+      background-color:white;
+      color: black;
+     padding : 250px 0px 250px 50px;          
+}
+.page2
+{
+display:flex;}
+.img1
+{
+width:35%;
+padding:0px 150px 0px 10px;
+}
+.list
+{font-size:20px;
+width:35%;
+padding:0px 250px 50px 100px;
+}
+.Money
+{
+color:white;
+background-color:black;
+padding:250px 0px 250px 0px;
+}
+.pics
+{
+display:flex;
+wrap:nowrap;
+padding:0px 20px 0px 30px;
+}
+.ab
+{
+padding:0px 50px 0px 530px;
+}
+.cd{
+padding:0px 50px 0px 440px;
+}
+.ef
+{
+padding:0px 0px 0px 280px;
+}
+.img2
+{
+padding:95px 60px 0 50px;
+}
+.img3
+{
+padding:95px 40px 0 30px;
+}
+.img4
+{
+padding:95px 30px 0 40px;
+}
+.page4
+{
+display:flex;
+padding:250px 0px 250px 0 ;
+}
+.2p
+{
+padding:0 50px 0 20px;
+}
+.img5
+{
+height:375px;
+width:380px;
+padding:0 170px 0 150px;
+}
